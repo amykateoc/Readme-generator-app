@@ -1,0 +1,14 @@
+{
+  "name": "challenge9",
+  "version": "1.0.0",
+  "description": "challenge 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Amy DiPiazzaa",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
